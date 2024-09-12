@@ -1,0 +1,2 @@
+Mohon maaf bu,
+Cara agar program bisa terjalan dengan baik dan lancar kemungkinan pada saat menyimpan database pada phpmyadmin ini database tersebut harus dibuat dengan nama "libraryadmin" seperti ini.

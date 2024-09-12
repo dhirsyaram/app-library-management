@@ -1,0 +1,18 @@
+
+
+Version:	3.50
+CmdLine:	C:\Users\Dirsa\Documents\NetBeansProjects\AdminLMS\dist\AdminLMS.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\Dirsa\Documents\NetBeansProjects\AdminLMS\dist\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.004.000
+Java max ver:	
+JRE paths:	jre1.8.0_31
+Check launcher:	C:\Users\Dirsa\Documents\NetBeansProjects\AdminLMS\dist\jre1.8.0_31\bin\javaw.exe (OK)
+Version string: 1.008.000_031 / 32-Bit (OK)
+Launcher:	C:\Users\Dirsa\Documents\NetBeansProjects\AdminLMS\dist\jre1.8.0_31\bin\javaw.exe
+Launcher args:	-jar "C:\Users\Dirsa\Documents\NetBeansProjects\AdminLMS\dist\AdminLMS.exe"
+Args length:	75/32768 chars
+Exit code:	0
